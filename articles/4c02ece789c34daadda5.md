@@ -3,7 +3,7 @@ title: "JAMstackで技術ブログを作った話【Next.js ✖️ microCMS ✖�
 emoji: "📚"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [nextjs, microcms, vercel, figma]
-published: false
+published: true
 ---
 
 今回、Next.js, micoroCMS, Vercel を用いて JAMstack の技術ブログを作りましたので、そのお話をいたします。
